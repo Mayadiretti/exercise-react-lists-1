@@ -1,0 +1,19 @@
+nav img{
+    width: 50px;
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem 2rem;
+}
+
+nav li{
+    list-style: none;
+}
+
+#container{
+    display: flex;
+    gap: 3rem;
+}
